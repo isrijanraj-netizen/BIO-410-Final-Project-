@@ -14,5 +14,4 @@ Raw paired-end sequencing reads were generated using next-generation sequencing 
 Here is the phylogenetic tree:
 ![Phylogenetic tree](Rplot_tree.jpeg)
 
-Explain
 Based on the maximum likelihood phylogenetic tree, the 6 Ebola virus samples show two distinct evolutionary lineages. Samples 1, 3, 4, and 5 cluster tightly together on one branch of the tree, indicating they are closely related to each other with minimal genetic divergence. In contrast, samples 2 and 6 form a separate, more distantly related. This branching pattern suggests that these 6 samples likely originated from 2 distinct individuals or transmission chains: one individual or lineage represented by the closely related cluster of samples 1, 3, 4, and 5, and a second individual or lineage represented by samples 2 and 6. The genetic distance between the two main clades indicates differentiation between these lineages. This shows either the samples are collected from separate sources or  it represents transmission events that accumulated independent mutations over time.
